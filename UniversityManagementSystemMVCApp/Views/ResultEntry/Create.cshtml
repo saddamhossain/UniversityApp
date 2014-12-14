@@ -1,0 +1,104 @@
+﻿@model UniversityManagementSystemMVCApp.Models.ResultEntry
+
+@{
+    ViewBag.Title = "Create";
+}
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h2>Result Entry</h2>
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.StudentRegistrationId, "Registration Number", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("StudentRegistrationId","Registration Number")
+                @Html.ValidationMessageFor(model => model.StudentRegistrationId)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Name, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Name)
+                @Html.ValidationMessageFor(model => model.Name)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Email)
+                @Html.ValidationMessageFor(model => model.Email)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Department, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Department)
+                @Html.ValidationMessageFor(model => model.Department)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CourseId, "Course Code", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("CourseId", String.Empty)
+                @Html.ValidationMessageFor(model => model.CourseId)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.GradeId, "Grade", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("GradeId", String.Empty)
+                @Html.ValidationMessageFor(model => model.GradeId)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-success" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script>
+        $(document).ready(function () {
+            $("#StudentRegistrationId").change(function () {
+                var optionSelected = $(this).find("option:selected");
+                var StudentRegistrationId = optionSelected.val();
+                var mydata = { regId: StudentRegistrationId };
+                //AJAX CALL STARTS FROM HERE
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetStudentRegInfo","StudentRegistrations")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(mydata),
+                    dataType: "json",
+                    //AJAX CALL ENDS
+                    success: function (data) {
+                        $("#Name").val(data.Name);
+                        $("#Email").val(data.Email);
+                        $("#Department").val(data.Department.Code);
+                    },
+                });
+            });
+        });
+
+    </script>
+}

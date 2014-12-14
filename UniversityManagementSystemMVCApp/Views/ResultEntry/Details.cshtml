@@ -1,0 +1,66 @@
+﻿@model UniversityManagementSystemMVCApp.Models.ResultEntry
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ResultEntry</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Course.Code)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Course.Code)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Grade.GradeDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Grade.GradeDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentRegistration.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StudentRegistration.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Department)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Department)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ResultEntryId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

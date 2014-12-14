@@ -1,0 +1,564 @@
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.dll.config
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.pdb
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Antlr3.Runtime.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\EntityFramework.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\EntityFramework.SqlServer.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Google.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Newtonsoft.Json.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Owin.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Helpers.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Mvc.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Optimization.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Razor.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Razor.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\WebGrease.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Helpers.xml
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Mvc.xml
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Optimization.xml
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Razor.xml
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.xml
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.xml
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Razor.xml
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Antlr3.Runtime.pdb
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Newtonsoft.Json.xml
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\EntityFramework.xml
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\EntityFramework.SqlServer.xml
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.xml
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.xml
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Google.xml
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.dll
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.pdb
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.Migrations.InitialCreate.resources
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.csproj.GenerateResource.Cache
+c:\users\ronok\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.Migrations.Version1.resources
+C:\Users\RONOK\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.Migrations.Version2.resources
+C:\Users\RONOK\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.Migrations.Version3.resources
+C:\Users\RONOK\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.Migrations.Version4.resources
+C:\Users\RONOK\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.Migrations.Version5.resources
+C:\Users\RONOK\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.csprojResolveAssemblyReference.cache
+C:\Users\RONOK\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.Migrations.Version6.resources
+C:\Users\RONOK\documents\visual studio 2013\Projects\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.Migrations.Version7.resources
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.dll.config
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.pdb
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Antlr3.Runtime.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\EntityFramework.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Newtonsoft.Json.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Owin.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Helpers.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Mvc.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Optimization.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Razor.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\WebGrease.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Helpers.xml
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Mvc.xml
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Optimization.xml
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Razor.xml
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.xml
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Antlr3.Runtime.pdb
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Newtonsoft.Json.xml
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\EntityFramework.xml
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.xml
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.xml
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.csprojResolveAssemblyReference.cache
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.Migrations.InitialCreate.resources
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.Migrations.Version1.resources
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.Migrations.Version2.resources
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.Migrations.Version3.resources
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.Migrations.Version4.resources
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.Migrations.Version5.resources
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.Migrations.Version6.resources
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.Migrations.Version7.resources
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.csproj.GenerateResource.Cache
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.dll
+C:\Users\RONOK\Desktop\University Management Syatem\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.pdb
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.dll.config
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.pdb
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Antlr3.Runtime.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\EntityFramework.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\EntityFramework.SqlServer.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Google.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Newtonsoft.Json.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Owin.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Helpers.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Mvc.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Optimization.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Razor.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Razor.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\WebGrease.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Helpers.xml
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Mvc.xml
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Optimization.xml
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Razor.xml
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.xml
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.xml
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Razor.xml
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Antlr3.Runtime.pdb
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Newtonsoft.Json.xml
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\EntityFramework.xml
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\EntityFramework.SqlServer.xml
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.xml
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.xml
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Google.xml
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.csprojResolveAssemblyReference.cache
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.dll
+D:\Temporary Data\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.pdb
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.dll.config
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.pdb
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Antlr3.Runtime.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\EntityFramework.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Newtonsoft.Json.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Owin.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Helpers.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Mvc.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Optimization.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Razor.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\WebGrease.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Helpers.xml
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Mvc.xml
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Optimization.xml
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.Razor.xml
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.xml
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Antlr3.Runtime.pdb
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Newtonsoft.Json.xml
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\EntityFramework.xml
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.xml
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.xml
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.dll
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.pdb
+C:\Users\RONOK\Desktop\Project For Presentation\UniversityManagementSystemMVCApp\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.csprojResolveAssemblyReference.cache
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\System.Web.Mvc.xml
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.dll.config
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.pdb
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Antlr3.Runtime.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\EntityFramework.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Newtonsoft.Json.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Owin.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\System.Web.Helpers.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\System.Web.Mvc.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\System.Web.Optimization.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\System.Web.Razor.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\WebGrease.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\System.Web.Helpers.xml
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\System.Web.Optimization.xml
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\System.Web.Razor.xml
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.xml
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Antlr3.Runtime.pdb
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Newtonsoft.Json.xml
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\EntityFramework.xml
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.xml
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.xml
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.csprojResolveAssemblyReference.cache
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.dll
+C:\Users\RANA\Desktop\PRO\PRO\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.pdb
+D:\PRO\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.dll.config
+D:\PRO\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.pdb
+D:\PRO\UniversityManagementSystemMVCApp\bin\Antlr3.Runtime.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\EntityFramework.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\EntityFramework.SqlServer.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Google.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Web.Infrastructure.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\Newtonsoft.Json.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\Owin.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\System.Web.Helpers.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\System.Web.Mvc.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\System.Web.Optimization.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\System.Web.Razor.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Razor.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\WebGrease.dll
+D:\PRO\UniversityManagementSystemMVCApp\bin\System.Web.Helpers.xml
+D:\PRO\UniversityManagementSystemMVCApp\bin\System.Web.Mvc.xml
+D:\PRO\UniversityManagementSystemMVCApp\bin\System.Web.Optimization.xml
+D:\PRO\UniversityManagementSystemMVCApp\bin\System.Web.Razor.xml
+D:\PRO\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.xml
+D:\PRO\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.xml
+D:\PRO\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Razor.xml
+D:\PRO\UniversityManagementSystemMVCApp\bin\Antlr3.Runtime.pdb
+D:\PRO\UniversityManagementSystemMVCApp\bin\Newtonsoft.Json.xml
+D:\PRO\UniversityManagementSystemMVCApp\bin\EntityFramework.xml
+D:\PRO\UniversityManagementSystemMVCApp\bin\EntityFramework.SqlServer.xml
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.xml
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.xml
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Google.xml
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PRO\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PRO\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.dll
+D:\PRO\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.pdb
+F:\New folder\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.dll.config
+F:\New folder\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.pdb
+F:\New folder\UniversityManagementSystemMVCApp\bin\Antlr3.Runtime.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\EntityFramework.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\EntityFramework.SqlServer.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Google.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.Web.Infrastructure.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\Newtonsoft.Json.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\Owin.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\System.Web.Helpers.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\System.Web.Mvc.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\System.Web.Optimization.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\System.Web.Razor.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Razor.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\WebGrease.dll
+F:\New folder\UniversityManagementSystemMVCApp\bin\System.Web.Helpers.xml
+F:\New folder\UniversityManagementSystemMVCApp\bin\System.Web.Mvc.xml
+F:\New folder\UniversityManagementSystemMVCApp\bin\System.Web.Optimization.xml
+F:\New folder\UniversityManagementSystemMVCApp\bin\System.Web.Razor.xml
+F:\New folder\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.xml
+F:\New folder\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.xml
+F:\New folder\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Razor.xml
+F:\New folder\UniversityManagementSystemMVCApp\bin\Antlr3.Runtime.pdb
+F:\New folder\UniversityManagementSystemMVCApp\bin\Newtonsoft.Json.xml
+F:\New folder\UniversityManagementSystemMVCApp\bin\EntityFramework.xml
+F:\New folder\UniversityManagementSystemMVCApp\bin\EntityFramework.SqlServer.xml
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.xml
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.xml
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Google.xml
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\New folder\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\New folder\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.dll
+F:\New folder\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.pdb
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.dll.config
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.pdb
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Antlr3.Runtime.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\EntityFramework.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Newtonsoft.Json.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Owin.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\System.Web.Helpers.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\System.Web.Mvc.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\System.Web.Optimization.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\System.Web.Razor.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\WebGrease.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\System.Web.Helpers.xml
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\System.Web.Mvc.xml
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\System.Web.Optimization.xml
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\System.Web.Razor.xml
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.xml
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Antlr3.Runtime.pdb
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Newtonsoft.Json.xml
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\EntityFramework.xml
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.xml
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.xml
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.dll
+C:\Users\RANA\Desktop\last version\last version\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.pdb
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.dll.config
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.pdb
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Antlr3.Runtime.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\EntityFramework.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Newtonsoft.Json.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Owin.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\System.Web.Helpers.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\System.Web.Mvc.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\System.Web.Optimization.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\System.Web.Razor.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\WebGrease.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\System.Web.Helpers.xml
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\System.Web.Mvc.xml
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\System.Web.Optimization.xml
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\System.Web.Razor.xml
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.xml
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Antlr3.Runtime.pdb
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Newtonsoft.Json.xml
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\EntityFramework.xml
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.xml
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.xml
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.csprojResolveAssemblyReference.cache
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.dll
+C:\Users\RONOK\Desktop\last version final ronok\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.pdb
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.dll.config
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\UniversityManagementSystemMVCApp.pdb
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Antlr3.Runtime.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\EntityFramework.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Newtonsoft.Json.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Owin.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\System.Web.Helpers.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\System.Web.Mvc.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\System.Web.Optimization.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\System.Web.Razor.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\WebGrease.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\System.Web.Helpers.xml
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\System.Web.Mvc.xml
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\System.Web.Optimization.xml
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\System.Web.Razor.xml
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.xml
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Antlr3.Runtime.pdb
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Newtonsoft.Json.xml
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\EntityFramework.xml
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.xml
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.xml
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.dll
+C:\Users\RANA\Downloads\Full and Final\Full and Final\UniversityManagementSystemMVCApp\obj\Debug\UniversityManagementSystemMVCApp.pdb

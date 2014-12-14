@@ -1,0 +1,69 @@
+﻿@model IEnumerable<UniversityManagementSystemMVCApp.Models.CourseAssign>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Course.Code)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Department.Code)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TeacherId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreditToBeTaken)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RemainingToBeTaken)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Credit)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Course.Code)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Department.Code)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TeacherId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreditToBeTaken)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RemainingToBeTaken)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Credit)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.CourseAssignId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.CourseAssignId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.CourseAssignId })
+        </td>
+    </tr>
+}
+
+</table>
